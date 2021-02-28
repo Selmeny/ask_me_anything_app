@@ -1,4 +1,4 @@
-# Ask me anything App ?
+# Ask me anything App 🎱
 
 A magic ball, to answer your questions about life.
 
